@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\users\asus\desktop\mydes\mydes\mydes.h(63): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\mydes\mydes\mydes.h(81): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\mydes\mydes\mydes.h(109): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\mydes\mydes\mydes.h(134): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\mydes\mydes\mydes.h(155): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\mydes\mydes\mydes.h(173): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\mydes\mydes\main.cpp(240): warning C4018: “<=”: 有符号/无符号不匹配
+  MYdes.vcxproj -> d:\Users\ASUS\Desktop\MYdes\Debug\MYdes.exe

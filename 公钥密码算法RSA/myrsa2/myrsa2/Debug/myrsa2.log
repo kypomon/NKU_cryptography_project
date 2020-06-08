@@ -1,0 +1,11 @@
+﻿  BigInt.cpp
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\bigint.h(137): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\bigint.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+  rsa.cpp
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\rsa.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\rsa.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\rsa.cpp(138): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\rsa.cpp(146): warning C4018: “<=”: 有符号/无符号不匹配
+d:\users\asus\desktop\密码学实验\公钥密码算法rsa\myrsa2\myrsa2\rsa.cpp(208): warning C4307: “-”: 整型常量溢出
+  正在生成代码...
+  myrsa2.vcxproj -> d:\Users\ASUS\Desktop\密码学实验\公钥密码算法RSA\myrsa2\Debug\myrsa2.exe

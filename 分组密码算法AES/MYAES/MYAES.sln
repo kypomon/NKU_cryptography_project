@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MYAES", "MYAES\MYAES.vcxproj", "{B693ABD9-4259-445D-A68B-1BDC9A1A5270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Debug|x64.ActiveCfg = Debug|x64
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Debug|x64.Build.0 = Debug|x64
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Debug|x86.ActiveCfg = Debug|Win32
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Debug|x86.Build.0 = Debug|Win32
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Release|x64.ActiveCfg = Release|x64
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Release|x64.Build.0 = Release|x64
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Release|x86.ActiveCfg = Release|Win32
+		{B693ABD9-4259-445D-A68B-1BDC9A1A5270}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661E6DAE-EEF7-4B43-91A8-F95EB6088102}
+	EndGlobalSection
+EndGlobal
